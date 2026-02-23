@@ -1,0 +1,10 @@
+const productos = [
+    { id: 1, nombre: "jabon", precio: 1 },
+    { id: 2, nombre: "limon", precio: 2 },
+    { id: 3, nombre: "lejia", precio: 3 }
+]
+
+console.log(productos[1].nombre)
+console.log(productos[2].precio)
+console.log(productos.length)
+
