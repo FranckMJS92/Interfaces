@@ -4,4 +4,4 @@ let esAdmin = true
 
 console.log(estaActivo? "activo":"inactivo")
 console.log(modoOscuro? "tema-oscuro":"tema-claro")
-console.log(esAdmin? "Admionistrador":"Usuario")
+console.log(esAdmin? "Administrador":"Usuario")

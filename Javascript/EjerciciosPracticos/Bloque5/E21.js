@@ -1,4 +1,4 @@
 const nombre = "Ana";
-const conectada = true;
+const conectada = false;
 
-console.log(``)
+console.log(`${nombre} está ${(conectada? "conectada" : "desconectada")}`)
