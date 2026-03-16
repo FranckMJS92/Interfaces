@@ -12,3 +12,5 @@ const Tarjeta = () => {
         </div>
     )
 }
+
+export default Tarjeta;

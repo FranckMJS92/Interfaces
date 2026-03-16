@@ -1,5 +1,5 @@
 const AlertaBienvenida = () => {
-    const nombre = "Carlos";
+    const nombre = "Franck";
     return (
         <div className="max-w-md mx-auto mt-10
 bg-linear-to-r from-blue-500
